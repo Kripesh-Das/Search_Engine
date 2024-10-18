@@ -1,4 +1,5 @@
 # LangChain - Chat with Search
+# Link to the model deployed on streamlit - https://kripeshsearchengine.streamlit.app/ 
 
 This repository contains a Streamlit application that integrates with LangChain to create a chatbot capable of searching the web using various tools like Arxiv, Wikipedia, and DuckDuckGo.
 
